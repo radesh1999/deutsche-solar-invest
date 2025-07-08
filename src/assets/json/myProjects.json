@@ -1,0 +1,74 @@
+{
+    "mockProjects": [
+        {
+            "id": 1,
+            "name": "Weidhausen",
+            "label": "Mediplan Helm",
+            "inverters": "12 WR",
+            "pricePerKWp": "1.000,00 €/kWp",
+            "freeInverters": "3 WR frei",
+            "energyYield": "1.120,00 kWh/kWp",
+            "totalPrice": "2.345.423,00 €",
+            "profit": "6,78 %",
+            "capacity": "2.345,00 kWp",
+            "sold": 68,
+            "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?q=80&w=2072&auto=format&fit=crop"
+        },
+        {
+            "id": 2,
+            "name": "Sonnenberg",
+            "label": "Energiekontor",
+            "inverters": "8 WR",
+            "pricePerKWp": "950,00 €/kWp",
+            "freeInverters": "2 WR frei",
+            "energyYield": "1.050,00 kWh/kWp",
+            "totalPrice": "1.800.000,00 €",
+            "profit": "5,60 %",
+            "capacity": "1.800,00 kWp",
+            "sold": 45,
+            "image": "https://images.unsplash.com/photo-1560264418-c4445382edbc?q=80&w=2072&auto=format&fit=crop"
+        },
+        {
+            "id": 3,
+            "name": "Grünwald",
+            "label": "EcoPlan Solar",
+            "inverters": "10 WR",
+            "pricePerKWp": "980,00 €/kWp",
+            "freeInverters": "1 WR frei",
+            "energyYield": "1.100,00 kWh/kWp",
+            "totalPrice": "2.000.000,00 €",
+            "profit": "6,10 %",
+            "capacity": "2.000,00 kWp",
+            "sold": 72,
+            "image": "https://images.unsplash.com/photo-1601582584705-8d5d4933cfb1?q=80&w=2072&auto=format&fit=crop"
+        },
+        {
+            "id": 4,
+            "name": "Lichtenfels",
+            "label": "NextSun GmbH",
+            "inverters": "15 WR",
+            "pricePerKWp": "1.050,00 €/kWp",
+            "freeInverters": "4 WR frei",
+            "energyYield": "1.150,00 kWh/kWp",
+            "totalPrice": "2.500.000,00 €",
+            "profit": "7,20 %",
+            "capacity": "2.600,00 kWp",
+            "sold": 81,
+            "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?q=80&w=2072&auto=format&fit=crop"
+        },
+        {
+            "id": 5,
+            "name": "Bamberg",
+            "label": "GreenVolt",
+            "inverters": "9 WR",
+            "pricePerKWp": "990,00 €/kWp",
+            "freeInverters": "2 WR frei",
+            "energyYield": "1.080,00 kWh/kWp",
+            "totalPrice": "1.950.000,00 €",
+            "profit": "6,00 %",
+            "capacity": "1.950,00 kWp",
+            "sold": 60,
+            "image": "https://images.unsplash.com/photo-1584270354949-3c7850c6dc57?q=80&w=2072&auto=format&fit=crop"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Custom Checkbox when checked - dark green */
+.ant-checkbox-checked .ant-checkbox-inner {
+    background-color: #065f46 !important;
+    /* your brand dark green */
+    border-color: #065f46 !important;
+}
+
+.ant-checkbox-checked .ant-checkbox-inner:hover {
+    background-color: #064e3b !important;
+}
+
+:where(.css-dev-only-do-not-override-1rfzxih).ant-checkbox-indeterminate .ant-checkbox-inner:after {
+    background-color: #064e3b !important;
+    /* gray-300 */
+}
+
+.custom-ant-table .ant-table-thead>tr>th {
+    background-color: #005738;
+    color: #ffffff;
+}
+
+.ant-table-thead>tr>th:first-child {
+    border-start-start-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+}
+
+.ant-table-thead>tr>th:last-child {
+    border-start-end-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+}
+
+.custom-ant-table {
+    padding: 2rem;
+}
+
+.custom-ant-table ::-webkit-scrollbar {
+    width: 6px;
+    /* vertical scrollbar */
+    height: 6px;
+    /* horizontal scrollbar */
+}
+
+.custom-ant-table ::-webkit-scrollbar-thumb {
+    background-color: #c0c0c0;
+    border-radius: 4px;
+}

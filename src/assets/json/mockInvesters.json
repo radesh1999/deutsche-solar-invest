@@ -1,0 +1,2854 @@
+{
+    "investorsData": [
+        {
+            "key": "1",
+            "name": "Zlatko Eigenwillig",
+            "mail": "etzlermanja@web.de",
+            "phone": "02790200900",
+            "unitsInPortfolio": 321443.33,
+            "lastPurchase": "14.06.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Zlatko",
+                "lastName": "Eigenwillig",
+                "street": "Gotthold-Heidrich-Platz 9",
+                "zip": "00293",
+                "location": "Stendal",
+                "mail": "etzlermanja@web.de",
+                "phone": "+49 (0) 2642 356736",
+                "mobil": "02790200900",
+                "birthDate": "31.12.1986",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "5759/625/4051",
+                "taxOffice": "Stendal",
+                "income": 260299,
+                "job": "Asphaltbauer",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Baden-Württemberg",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p1a",
+                    "firstName": "Zlatko",
+                    "lastNameOrLegalForm": "Eigenwillig",
+                    "street": "Gotthold-Heidrich-Platz 9",
+                    "zip": "00293",
+                    "location": "Stendal"
+                },
+                {
+                    "id": "p1b",
+                    "firstName": "Hedwig",
+                    "lastNameOrLegalForm": "Eigenwillig",
+                    "street": "Gotthold-Heidrich-Platz 9",
+                    "zip": "00293",
+                    "location": "Stendal"
+                },
+                {
+                    "id": "p1c",
+                    "firstName": "Eigenwillig Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Gotthold-Heidrich-Platz 9",
+                    "zip": "00293",
+                    "location": "Stendal"
+                }
+            ]
+        },
+        {
+            "key": "2",
+            "name": "Daniele Flantz",
+            "mail": "stephen28@mans.com",
+            "phone": "+49 (0) 0123 553077",
+            "unitsInPortfolio": 293192.73,
+            "lastPurchase": "01.12.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Daniele",
+                "lastName": "Flantz",
+                "street": "Ringplatz 7/2",
+                "zip": "02883",
+                "location": "Vilsbiburg",
+                "mail": "stephen28@mans.com",
+                "phone": "+49(0) 304291264",
+                "mobil": "+49 (0) 0123 553077",
+                "birthDate": "09.10.1988",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "9423/766/5755",
+                "taxOffice": "Vilsbiburg",
+                "income": 68584,
+                "job": "Designer",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Schleswig-Holstein",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p2a",
+                    "firstName": "Daniele",
+                    "lastNameOrLegalForm": "Flantz",
+                    "street": "Ringplatz 7/2",
+                    "zip": "02883",
+                    "location": "Vilsbiburg"
+                },
+                {
+                    "id": "p2b",
+                    "firstName": "Nadja",
+                    "lastNameOrLegalForm": "Flantz",
+                    "street": "Ringplatz 7/2",
+                    "zip": "02883",
+                    "location": "Vilsbiburg"
+                },
+                {
+                    "id": "p2c",
+                    "firstName": "Flantz Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Ringplatz 7/2",
+                    "zip": "02883",
+                    "location": "Vilsbiburg"
+                }
+            ]
+        },
+        {
+            "key": "3",
+            "name": "Luciano Fiebig",
+            "mail": "holtraphael@aol.de",
+            "phone": "+49(0) 482595868",
+            "unitsInPortfolio": 105353.06,
+            "lastPurchase": "07.07.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Luciano",
+                "lastName": "Fiebig",
+                "street": "Scheuermannstr. 9",
+                "zip": "83241",
+                "location": "Soltau",
+                "mail": "holtraphael@aol.de",
+                "phone": "+49 (0) 3495 690708",
+                "mobil": "+49(0) 482595868",
+                "birthDate": "13.02.1968",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "4690/774/9603",
+                "taxOffice": "Soltau",
+                "income": 178647,
+                "job": "Bankkaufmann",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Niedersachsen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p3a",
+                    "firstName": "Luciano",
+                    "lastNameOrLegalForm": "Fiebig",
+                    "street": "Scheuermannstr. 9",
+                    "zip": "83241",
+                    "location": "Soltau"
+                },
+                {
+                    "id": "p3b",
+                    "firstName": "Slavica",
+                    "lastNameOrLegalForm": "Fiebig",
+                    "street": "Scheuermannstr. 9",
+                    "zip": "83241",
+                    "location": "Soltau"
+                },
+                {
+                    "id": "p3c",
+                    "firstName": "Fiebig Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Scheuermannstr. 9",
+                    "zip": "83241",
+                    "location": "Soltau"
+                }
+            ]
+        },
+        {
+            "key": "4",
+            "name": "Elias Fechner",
+            "mail": "uhoffmann@gmail.com",
+            "phone": "06601 70667",
+            "unitsInPortfolio": 163758.37,
+            "lastPurchase": "03.06.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Elias",
+                "lastName": "Fechner",
+                "street": "Pärtzeltgasse 58",
+                "zip": "50872",
+                "location": "Halberstadt",
+                "mail": "uhoffmann@gmail.com",
+                "phone": "(04998) 40265",
+                "mobil": "06601 70667",
+                "birthDate": "13.03.1985",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "9211/127/9892",
+                "taxOffice": "Halberstadt",
+                "income": 214051,
+                "job": "Friseur",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Rheinland-Pfalz",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p4a",
+                    "firstName": "Elias",
+                    "lastNameOrLegalForm": "Fechner",
+                    "street": "Pärtzeltgasse 58",
+                    "zip": "50872",
+                    "location": "Halberstadt"
+                },
+                {
+                    "id": "p4b",
+                    "firstName": "Marie-Theres",
+                    "lastNameOrLegalForm": "Fechner",
+                    "street": "Pärtzeltgasse 58",
+                    "zip": "50872",
+                    "location": "Halberstadt"
+                },
+                {
+                    "id": "p4c",
+                    "firstName": "Fechner Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Pärtzeltgasse 58",
+                    "zip": "50872",
+                    "location": "Halberstadt"
+                }
+            ]
+        },
+        {
+            "key": "5",
+            "name": "Arthur Eberth",
+            "mail": "jbachmann@aol.de",
+            "phone": "01657286526",
+            "unitsInPortfolio": 452646.54,
+            "lastPurchase": "27.10.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Arthur",
+                "lastName": "Eberth",
+                "street": "Bergerweg 1/4",
+                "zip": "03494",
+                "location": "Bad Liebenwerda",
+                "mail": "jbachmann@aol.de",
+                "phone": "03984668914",
+                "mobil": "01657286526",
+                "birthDate": "28.11.1967",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "7571/687/8185",
+                "taxOffice": "Bad Liebenwerda",
+                "income": 113164,
+                "job": "Ausbaufacharbeiter",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Sachsen-Anhalt",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p5a",
+                    "firstName": "Arthur",
+                    "lastNameOrLegalForm": "Eberth",
+                    "street": "Bergerweg 1/4",
+                    "zip": "03494",
+                    "location": "Bad Liebenwerda"
+                },
+                {
+                    "id": "p5b",
+                    "firstName": "Annamaria",
+                    "lastNameOrLegalForm": "Eberth",
+                    "street": "Bergerweg 1/4",
+                    "zip": "03494",
+                    "location": "Bad Liebenwerda"
+                },
+                {
+                    "id": "p5c",
+                    "firstName": "Eberth Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Bergerweg 1/4",
+                    "zip": "03494",
+                    "location": "Bad Liebenwerda"
+                }
+            ]
+        },
+        {
+            "key": "6",
+            "name": "Mirko Faust",
+            "mail": "isabelle44@gmail.com",
+            "phone": "0924414650",
+            "unitsInPortfolio": 413046.7,
+            "lastPurchase": "02.12.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Mirko",
+                "lastName": "Faust",
+                "street": "Stolzeallee 3/3",
+                "zip": "13278",
+                "location": "Weimar",
+                "mail": "isabelle44@gmail.com",
+                "phone": "+49(0)2468 657372",
+                "mobil": "0924414650",
+                "birthDate": "07.08.1957",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "1115/450/1366",
+                "taxOffice": "Weimar",
+                "income": 185778,
+                "job": "Artist",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Sachsen-Anhalt",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p6a",
+                    "firstName": "Mirko",
+                    "lastNameOrLegalForm": "Faust",
+                    "street": "Stolzeallee 3/3",
+                    "zip": "13278",
+                    "location": "Weimar"
+                },
+                {
+                    "id": "p6b",
+                    "firstName": "Friedhilde",
+                    "lastNameOrLegalForm": "Faust",
+                    "street": "Stolzeallee 3/3",
+                    "zip": "13278",
+                    "location": "Weimar"
+                },
+                {
+                    "id": "p6c",
+                    "firstName": "Faust Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Stolzeallee 3/3",
+                    "zip": "13278",
+                    "location": "Weimar"
+                }
+            ]
+        },
+        {
+            "key": "7",
+            "name": "Pero Naser",
+            "mail": "heinz-walterhering@googlemail.com",
+            "phone": "(02524) 66875",
+            "unitsInPortfolio": 286351.28,
+            "lastPurchase": "04.05.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Pero",
+                "lastName": "Naser",
+                "street": "Heinz-Günther-Mentzel-Platz 060",
+                "zip": "19383",
+                "location": "Meiningen",
+                "mail": "heinz-walterhering@googlemail.com",
+                "phone": "05469 079664",
+                "mobil": "(02524) 66875",
+                "birthDate": "16.02.1984",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "4431/456/9031",
+                "taxOffice": "Meiningen",
+                "income": 154728,
+                "job": "Elektroniker",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Bremen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p7a",
+                    "firstName": "Pero",
+                    "lastNameOrLegalForm": "Naser",
+                    "street": "Heinz-Günther-Mentzel-Platz 060",
+                    "zip": "19383",
+                    "location": "Meiningen"
+                },
+                {
+                    "id": "p7b",
+                    "firstName": "Janett",
+                    "lastNameOrLegalForm": "Naser",
+                    "street": "Heinz-Günther-Mentzel-Platz 060",
+                    "zip": "19383",
+                    "location": "Meiningen"
+                },
+                {
+                    "id": "p7c",
+                    "firstName": "Naser Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Heinz-Günther-Mentzel-Platz 060",
+                    "zip": "19383",
+                    "location": "Meiningen"
+                }
+            ]
+        },
+        {
+            "key": "8",
+            "name": "Peter Röhricht",
+            "mail": "dfroehlich@gmail.com",
+            "phone": "+49(0)4388 61917",
+            "unitsInPortfolio": 301792.85,
+            "lastPurchase": "20.05.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Peter",
+                "lastName": "Röhricht",
+                "street": "Oderwaldallee 4/3",
+                "zip": "93134",
+                "location": "München",
+                "mail": "dfroehlich@gmail.com",
+                "phone": "+49(0)7170 715336",
+                "mobil": "+49(0)4388 61917",
+                "birthDate": "01.06.1967",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "7863/338/3951",
+                "taxOffice": "München",
+                "income": 107936,
+                "job": "Asphaltbauer",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Schleswig-Holstein",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p8a",
+                    "firstName": "Peter",
+                    "lastNameOrLegalForm": "Röhricht",
+                    "street": "Oderwaldallee 4/3",
+                    "zip": "93134",
+                    "location": "München"
+                },
+                {
+                    "id": "p8b",
+                    "firstName": "Anneke",
+                    "lastNameOrLegalForm": "Röhricht",
+                    "street": "Oderwaldallee 4/3",
+                    "zip": "93134",
+                    "location": "München"
+                },
+                {
+                    "id": "p8c",
+                    "firstName": "Röhricht Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Oderwaldallee 4/3",
+                    "zip": "93134",
+                    "location": "München"
+                }
+            ]
+        },
+        {
+            "key": "9",
+            "name": "Bela Bohnbach",
+            "mail": "gierschnernancy@web.de",
+            "phone": "0101296216",
+            "unitsInPortfolio": 175318.77,
+            "lastPurchase": "11.09.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Bela",
+                "lastName": "Bohnbach",
+                "street": "Bolnbachring 7",
+                "zip": "59120",
+                "location": "Zossen",
+                "mail": "gierschnernancy@web.de",
+                "phone": "(08645) 69061",
+                "mobil": "0101296216",
+                "birthDate": "25.02.1981",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "6728/395/3429",
+                "taxOffice": "Zossen",
+                "income": 119800,
+                "job": "Bäcker",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Rheinland-Pfalz",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p9a",
+                    "firstName": "Bela",
+                    "lastNameOrLegalForm": "Bohnbach",
+                    "street": "Bolnbachring 7",
+                    "zip": "59120",
+                    "location": "Zossen"
+                },
+                {
+                    "id": "p9b",
+                    "firstName": "Agatha",
+                    "lastNameOrLegalForm": "Bohnbach",
+                    "street": "Bolnbachring 7",
+                    "zip": "59120",
+                    "location": "Zossen"
+                },
+                {
+                    "id": "p9c",
+                    "firstName": "Bohnbach Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Bolnbachring 7",
+                    "zip": "59120",
+                    "location": "Zossen"
+                }
+            ]
+        },
+        {
+            "key": "10",
+            "name": "Wulf Juncken",
+            "mail": "isager@soelzer.com",
+            "phone": "+49 (0) 2803 897873",
+            "unitsInPortfolio": 315755.57,
+            "lastPurchase": "05.01.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Wulf",
+                "lastName": "Juncken",
+                "street": "Raisa-Zänker-Straße 9/1",
+                "zip": "01691",
+                "location": "Sebnitz",
+                "mail": "isager@soelzer.com",
+                "phone": "+49(0)5080024909",
+                "mobil": "+49 (0) 2803 897873",
+                "birthDate": "02.07.1990",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "7958/175/9604",
+                "taxOffice": "Sebnitz",
+                "income": 59744,
+                "job": "Bäcker",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Schleswig-Holstein",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p10a",
+                    "firstName": "Wulf",
+                    "lastNameOrLegalForm": "Juncken",
+                    "street": "Raisa-Zänker-Straße 9/1",
+                    "zip": "01691",
+                    "location": "Sebnitz"
+                },
+                {
+                    "id": "p10b",
+                    "firstName": "Emilie",
+                    "lastNameOrLegalForm": "Juncken",
+                    "street": "Raisa-Zänker-Straße 9/1",
+                    "zip": "01691",
+                    "location": "Sebnitz"
+                },
+                {
+                    "id": "p10c",
+                    "firstName": "Juncken Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Raisa-Zänker-Straße 9/1",
+                    "zip": "01691",
+                    "location": "Sebnitz"
+                }
+            ]
+        },
+        {
+            "key": "11",
+            "name": "Franz-Peter Pergande",
+            "mail": "lili11@kobelt.com",
+            "phone": "+49(0) 410194609",
+            "unitsInPortfolio": 464280.15,
+            "lastPurchase": "25.12.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Franz-Peter",
+                "lastName": "Pergande",
+                "street": "Kruschwitzstr. 45",
+                "zip": "43368",
+                "location": "Perleberg",
+                "mail": "lili11@kobelt.com",
+                "phone": "(02207) 752673",
+                "mobil": "+49(0) 410194609",
+                "birthDate": "27.07.1955",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "7081/938/5523",
+                "taxOffice": "Perleberg",
+                "income": 227694,
+                "job": "Elektroniker",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Nordrhein-Westfalen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p11a",
+                    "firstName": "Franz-Peter",
+                    "lastNameOrLegalForm": "Pergande",
+                    "street": "Kruschwitzstr. 45",
+                    "zip": "43368",
+                    "location": "Perleberg"
+                },
+                {
+                    "id": "p11b",
+                    "firstName": "Reingard",
+                    "lastNameOrLegalForm": "Pergande",
+                    "street": "Kruschwitzstr. 45",
+                    "zip": "43368",
+                    "location": "Perleberg"
+                },
+                {
+                    "id": "p11c",
+                    "firstName": "Pergande Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Kruschwitzstr. 45",
+                    "zip": "43368",
+                    "location": "Perleberg"
+                }
+            ]
+        },
+        {
+            "key": "12",
+            "name": "Heinz-Joachim Reising",
+            "mail": "henrike07@hess.de",
+            "phone": "+49 (0) 4729 924815",
+            "unitsInPortfolio": 332145.42,
+            "lastPurchase": "03.05.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Heinz-Joachim",
+                "lastName": "Reising",
+                "street": "Bährstraße 2/8",
+                "zip": "58510",
+                "location": "Iserlohn",
+                "mail": "henrike07@hess.de",
+                "phone": "00154 01304",
+                "mobil": "+49 (0) 4729 924815",
+                "birthDate": "22.10.1989",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "7909/314/8680",
+                "taxOffice": "Iserlohn",
+                "income": 104366,
+                "job": "Artist",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Hamburg",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p12a",
+                    "firstName": "Heinz-Joachim",
+                    "lastNameOrLegalForm": "Reising",
+                    "street": "Bährstraße 2/8",
+                    "zip": "58510",
+                    "location": "Iserlohn"
+                },
+                {
+                    "id": "p12b",
+                    "firstName": "Aleksandra",
+                    "lastNameOrLegalForm": "Reising",
+                    "street": "Bährstraße 2/8",
+                    "zip": "58510",
+                    "location": "Iserlohn"
+                },
+                {
+                    "id": "p12c",
+                    "firstName": "Reising Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Bährstraße 2/8",
+                    "zip": "58510",
+                    "location": "Iserlohn"
+                }
+            ]
+        },
+        {
+            "key": "13",
+            "name": "Ryszard Rose",
+            "mail": "lidwina44@radisch.net",
+            "phone": "(01059) 71798",
+            "unitsInPortfolio": 402383.72,
+            "lastPurchase": "11.04.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Ryszard",
+                "lastName": "Rose",
+                "street": "Lissy-Stiebitz-Platz 7/2",
+                "zip": "12081",
+                "location": "Uffenheim",
+                "mail": "lidwina44@radisch.net",
+                "phone": "+49(0) 281723635",
+                "mobil": "(01059) 71798",
+                "birthDate": "01.10.1956",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "6683/373/1667",
+                "taxOffice": "Uffenheim",
+                "income": 285489,
+                "job": "Schornsteinfeger",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Berlin",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p13a",
+                    "firstName": "Ryszard",
+                    "lastNameOrLegalForm": "Rose",
+                    "street": "Lissy-Stiebitz-Platz 7/2",
+                    "zip": "12081",
+                    "location": "Uffenheim"
+                },
+                {
+                    "id": "p13b",
+                    "firstName": "Anny",
+                    "lastNameOrLegalForm": "Rose",
+                    "street": "Lissy-Stiebitz-Platz 7/2",
+                    "zip": "12081",
+                    "location": "Uffenheim"
+                },
+                {
+                    "id": "p13c",
+                    "firstName": "Rose Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Lissy-Stiebitz-Platz 7/2",
+                    "zip": "12081",
+                    "location": "Uffenheim"
+                }
+            ]
+        },
+        {
+            "key": "14",
+            "name": "Ivan Jäkel",
+            "mail": "lmetz@googlemail.com",
+            "phone": "+49(0)8450 01821",
+            "unitsInPortfolio": 297330.68,
+            "lastPurchase": "10.08.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Ivan",
+                "lastName": "Jäkel",
+                "street": "Luka-Schmiedt-Weg 594",
+                "zip": "21443",
+                "location": "Roth",
+                "mail": "lmetz@googlemail.com",
+                "phone": "+49(0)3910963567",
+                "mobil": "+49(0)8450 01821",
+                "birthDate": "06.12.1992",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "9127/380/2384",
+                "taxOffice": "Roth",
+                "income": 121471,
+                "job": "Programmierer",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Bayern",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p14a",
+                    "firstName": "Ivan",
+                    "lastNameOrLegalForm": "Jäkel",
+                    "street": "Luka-Schmiedt-Weg 594",
+                    "zip": "21443",
+                    "location": "Roth"
+                },
+                {
+                    "id": "p14b",
+                    "firstName": "Vesna",
+                    "lastNameOrLegalForm": "Jäkel",
+                    "street": "Luka-Schmiedt-Weg 594",
+                    "zip": "21443",
+                    "location": "Roth"
+                },
+                {
+                    "id": "p14c",
+                    "firstName": "Jäkel Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Luka-Schmiedt-Weg 594",
+                    "zip": "21443",
+                    "location": "Roth"
+                }
+            ]
+        },
+        {
+            "key": "15",
+            "name": "Michael Rogner",
+            "mail": "shornich@wagenknecht.com",
+            "phone": "+49(0)3701 410907",
+            "unitsInPortfolio": 280082.03,
+            "lastPurchase": "09.02.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Michael",
+                "lastName": "Rogner",
+                "street": "Kilian-Schuster-Platz 8/9",
+                "zip": "60932",
+                "location": "Luckenwalde",
+                "mail": "shornich@wagenknecht.com",
+                "phone": "+49 (0) 3770 229433",
+                "mobil": "+49(0)3701 410907",
+                "birthDate": "16.05.1968",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "4877/431/1938",
+                "taxOffice": "Luckenwalde",
+                "income": 269136,
+                "job": "Fleischer",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Saarland",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p15a",
+                    "firstName": "Michael",
+                    "lastNameOrLegalForm": "Rogner",
+                    "street": "Kilian-Schuster-Platz 8/9",
+                    "zip": "60932",
+                    "location": "Luckenwalde"
+                },
+                {
+                    "id": "p15b",
+                    "firstName": "Siegried",
+                    "lastNameOrLegalForm": "Rogner",
+                    "street": "Kilian-Schuster-Platz 8/9",
+                    "zip": "60932",
+                    "location": "Luckenwalde"
+                },
+                {
+                    "id": "p15c",
+                    "firstName": "Rogner Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Kilian-Schuster-Platz 8/9",
+                    "zip": "60932",
+                    "location": "Luckenwalde"
+                }
+            ]
+        },
+        {
+            "key": "16",
+            "name": "Karl-Peter Schottin",
+            "mail": "gunpfeberhardt@web.de",
+            "phone": "+49(0)3459 038554",
+            "unitsInPortfolio": 394553.06,
+            "lastPurchase": "06.06.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Karl-Peter",
+                "lastName": "Schottin",
+                "street": "Sepp-Geißler-Allee 573",
+                "zip": "68492",
+                "location": "Bad Kissingen",
+                "mail": "gunpfeberhardt@web.de",
+                "phone": "(03665) 747401",
+                "mobil": "+49(0)3459 038554",
+                "birthDate": "19.05.1967",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "9959/403/4591",
+                "taxOffice": "Bad Kissingen",
+                "income": 215733,
+                "job": "Medizininformatiker",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Rheinland-Pfalz",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p16a",
+                    "firstName": "Karl-Peter",
+                    "lastNameOrLegalForm": "Schottin",
+                    "street": "Sepp-Geißler-Allee 573",
+                    "zip": "68492",
+                    "location": "Bad Kissingen"
+                },
+                {
+                    "id": "p16b",
+                    "firstName": "Gülay",
+                    "lastNameOrLegalForm": "Schottin",
+                    "street": "Sepp-Geißler-Allee 573",
+                    "zip": "68492",
+                    "location": "Bad Kissingen"
+                },
+                {
+                    "id": "p16c",
+                    "firstName": "Schottin Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Sepp-Geißler-Allee 573",
+                    "zip": "68492",
+                    "location": "Bad Kissingen"
+                }
+            ]
+        },
+        {
+            "key": "17",
+            "name": "Ian Schacht",
+            "mail": "losekannrenata@oestrovsky.com",
+            "phone": "07270 42518",
+            "unitsInPortfolio": 228298.2,
+            "lastPurchase": "02.11.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Ian",
+                "lastName": "Schacht",
+                "street": "Georgios-Huhn-Platz 49",
+                "zip": "41292",
+                "location": "Mühlhausen",
+                "mail": "losekannrenata@oestrovsky.com",
+                "phone": "+49(0) 468581184",
+                "mobil": "07270 42518",
+                "birthDate": "01.08.1975",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "8225/346/9208",
+                "taxOffice": "Mühlhausen",
+                "income": 171976,
+                "job": "Mathematiker",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Rheinland-Pfalz",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p17a",
+                    "firstName": "Ian",
+                    "lastNameOrLegalForm": "Schacht",
+                    "street": "Georgios-Huhn-Platz 49",
+                    "zip": "41292",
+                    "location": "Mühlhausen"
+                },
+                {
+                    "id": "p17b",
+                    "firstName": "Liesbeth",
+                    "lastNameOrLegalForm": "Schacht",
+                    "street": "Georgios-Huhn-Platz 49",
+                    "zip": "41292",
+                    "location": "Mühlhausen"
+                },
+                {
+                    "id": "p17c",
+                    "firstName": "Schacht Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Georgios-Huhn-Platz 49",
+                    "zip": "41292",
+                    "location": "Mühlhausen"
+                }
+            ]
+        },
+        {
+            "key": "18",
+            "name": "Edgar Mitschke",
+            "mail": "kathleengorlitz@jessel.de",
+            "phone": "01118931512",
+            "unitsInPortfolio": 260647.08,
+            "lastPurchase": "12.08.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Edgar",
+                "lastName": "Mitschke",
+                "street": "Branko-Herrmann-Allee 3/3",
+                "zip": "44420",
+                "location": "Feuchtwangen",
+                "mail": "kathleengorlitz@jessel.de",
+                "phone": "00826 18725",
+                "mobil": "01118931512",
+                "birthDate": "16.10.1961",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "1716/689/9700",
+                "taxOffice": "Feuchtwangen",
+                "income": 116824,
+                "job": "Asphaltbauer",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Rheinland-Pfalz",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p18a",
+                    "firstName": "Edgar",
+                    "lastNameOrLegalForm": "Mitschke",
+                    "street": "Branko-Herrmann-Allee 3/3",
+                    "zip": "44420",
+                    "location": "Feuchtwangen"
+                },
+                {
+                    "id": "p18b",
+                    "firstName": "Anne-Marie",
+                    "lastNameOrLegalForm": "Mitschke",
+                    "street": "Branko-Herrmann-Allee 3/3",
+                    "zip": "44420",
+                    "location": "Feuchtwangen"
+                },
+                {
+                    "id": "p18c",
+                    "firstName": "Mitschke Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Branko-Herrmann-Allee 3/3",
+                    "zip": "44420",
+                    "location": "Feuchtwangen"
+                }
+            ]
+        },
+        {
+            "key": "19",
+            "name": "Bruno Dörschner",
+            "mail": "aholzapfel@hotmail.de",
+            "phone": "01435 290205",
+            "unitsInPortfolio": 359546.09,
+            "lastPurchase": "01.10.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Bruno",
+                "lastName": "Dörschner",
+                "street": "Aneta-Heß-Ring 4",
+                "zip": "44644",
+                "location": "Dessau",
+                "mail": "aholzapfel@hotmail.de",
+                "phone": "03009 11683",
+                "mobil": "01435 290205",
+                "birthDate": "17.04.1991",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "1404/474/1500",
+                "taxOffice": "Dessau",
+                "income": 290386,
+                "job": "Altenpfleger",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Thüringen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p19a",
+                    "firstName": "Bruno",
+                    "lastNameOrLegalForm": "Dörschner",
+                    "street": "Aneta-Heß-Ring 4",
+                    "zip": "44644",
+                    "location": "Dessau"
+                },
+                {
+                    "id": "p19b",
+                    "firstName": "Priska",
+                    "lastNameOrLegalForm": "Dörschner",
+                    "street": "Aneta-Heß-Ring 4",
+                    "zip": "44644",
+                    "location": "Dessau"
+                },
+                {
+                    "id": "p19c",
+                    "firstName": "Dörschner Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Aneta-Heß-Ring 4",
+                    "zip": "44644",
+                    "location": "Dessau"
+                }
+            ]
+        },
+        {
+            "key": "20",
+            "name": "Fabian Süßebier",
+            "mail": "eckbauerstanislaus@heidrich.com",
+            "phone": "07760 296797",
+            "unitsInPortfolio": 289338.14,
+            "lastPurchase": "12.06.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Fabian",
+                "lastName": "Süßebier",
+                "street": "Amalie-Gierschner-Ring 370",
+                "zip": "84029",
+                "location": "Saarlouis",
+                "mail": "eckbauerstanislaus@heidrich.com",
+                "phone": "+49(0)6203 21728",
+                "mobil": "07760 296797",
+                "birthDate": "06.07.1967",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "6643/137/1176",
+                "taxOffice": "Saarlouis",
+                "income": 275944,
+                "job": "Bäcker",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Sachsen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p20a",
+                    "firstName": "Fabian",
+                    "lastNameOrLegalForm": "Süßebier",
+                    "street": "Amalie-Gierschner-Ring 370",
+                    "zip": "84029",
+                    "location": "Saarlouis"
+                },
+                {
+                    "id": "p20b",
+                    "firstName": "Ljudmila",
+                    "lastNameOrLegalForm": "Süßebier",
+                    "street": "Amalie-Gierschner-Ring 370",
+                    "zip": "84029",
+                    "location": "Saarlouis"
+                },
+                {
+                    "id": "p20c",
+                    "firstName": "Süßebier Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Amalie-Gierschner-Ring 370",
+                    "zip": "84029",
+                    "location": "Saarlouis"
+                }
+            ]
+        },
+        {
+            "key": "21",
+            "name": "Pasquale Jäntsch",
+            "mail": "qlange@gude.com",
+            "phone": "+49(0)8433 120571",
+            "unitsInPortfolio": 408400.52,
+            "lastPurchase": "18.08.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Pasquale",
+                "lastName": "Jäntsch",
+                "street": "Melissa-Meyer-Ring 66",
+                "zip": "00354",
+                "location": "Gransee",
+                "mail": "qlange@gude.com",
+                "phone": "+49(0)3034156256",
+                "mobil": "+49(0)8433 120571",
+                "birthDate": "26.12.1970",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "6563/537/9538",
+                "taxOffice": "Gransee",
+                "income": 50971,
+                "job": "Fachinformatiker",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Niedersachsen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p21a",
+                    "firstName": "Pasquale",
+                    "lastNameOrLegalForm": "Jäntsch",
+                    "street": "Melissa-Meyer-Ring 66",
+                    "zip": "00354",
+                    "location": "Gransee"
+                },
+                {
+                    "id": "p21b",
+                    "firstName": "Hülya",
+                    "lastNameOrLegalForm": "Jäntsch",
+                    "street": "Melissa-Meyer-Ring 66",
+                    "zip": "00354",
+                    "location": "Gransee"
+                },
+                {
+                    "id": "p21c",
+                    "firstName": "Jäntsch Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Melissa-Meyer-Ring 66",
+                    "zip": "00354",
+                    "location": "Gransee"
+                }
+            ]
+        },
+        {
+            "key": "22",
+            "name": "Ahmad Bolnbach",
+            "mail": "annaliese47@web.de",
+            "phone": "+49(0)5869146887",
+            "unitsInPortfolio": 426752.32,
+            "lastPurchase": "25.03.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Ahmad",
+                "lastName": "Bolnbach",
+                "street": "Ullrichgasse 572",
+                "zip": "22585",
+                "location": "Rastatt",
+                "mail": "annaliese47@web.de",
+                "phone": "+49(0) 732724451",
+                "mobil": "+49(0)5869146887",
+                "birthDate": "30.07.1954",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "6585/804/2166",
+                "taxOffice": "Rastatt",
+                "income": 220218,
+                "job": "Techniker",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Nordrhein-Westfalen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p22a",
+                    "firstName": "Ahmad",
+                    "lastNameOrLegalForm": "Bolnbach",
+                    "street": "Ullrichgasse 572",
+                    "zip": "22585",
+                    "location": "Rastatt"
+                },
+                {
+                    "id": "p22b",
+                    "firstName": "Thea",
+                    "lastNameOrLegalForm": "Bolnbach",
+                    "street": "Ullrichgasse 572",
+                    "zip": "22585",
+                    "location": "Rastatt"
+                },
+                {
+                    "id": "p22c",
+                    "firstName": "Bolnbach Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Ullrichgasse 572",
+                    "zip": "22585",
+                    "location": "Rastatt"
+                }
+            ]
+        },
+        {
+            "key": "23",
+            "name": "Adalbert Otto",
+            "mail": "hendriksiris@holzapfel.org",
+            "phone": "0367569868",
+            "unitsInPortfolio": 112140.06,
+            "lastPurchase": "05.05.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Adalbert",
+                "lastName": "Otto",
+                "street": "Meyergasse 21",
+                "zip": "69254",
+                "location": "Kemnath",
+                "mail": "hendriksiris@holzapfel.org",
+                "phone": "03352 28013",
+                "mobil": "0367569868",
+                "birthDate": "16.03.1960",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "6798/876/3417",
+                "taxOffice": "Kemnath",
+                "income": 189944,
+                "job": "Mechaniker",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Bayern",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p23a",
+                    "firstName": "Adalbert",
+                    "lastNameOrLegalForm": "Otto",
+                    "street": "Meyergasse 21",
+                    "zip": "69254",
+                    "location": "Kemnath"
+                },
+                {
+                    "id": "p23b",
+                    "firstName": "Frauke",
+                    "lastNameOrLegalForm": "Otto",
+                    "street": "Meyergasse 21",
+                    "zip": "69254",
+                    "location": "Kemnath"
+                },
+                {
+                    "id": "p23c",
+                    "firstName": "Otto Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Meyergasse 21",
+                    "zip": "69254",
+                    "location": "Kemnath"
+                }
+            ]
+        },
+        {
+            "key": "24",
+            "name": "Sigmar Jäkel",
+            "mail": "monjareichmann@googlemail.com",
+            "phone": "00625489984",
+            "unitsInPortfolio": 227492.79,
+            "lastPurchase": "30.06.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Sigmar",
+                "lastName": "Jäkel",
+                "street": "Austermühlering 5",
+                "zip": "85497",
+                "location": "Wiedenbrück",
+                "mail": "monjareichmann@googlemail.com",
+                "phone": "08867023247",
+                "mobil": "00625489984",
+                "birthDate": "07.01.1981",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "5737/484/9515",
+                "taxOffice": "Wiedenbrück",
+                "income": 273625,
+                "job": "Programmierer",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Hessen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p24a",
+                    "firstName": "Sigmar",
+                    "lastNameOrLegalForm": "Jäkel",
+                    "street": "Austermühlering 5",
+                    "zip": "85497",
+                    "location": "Wiedenbrück"
+                },
+                {
+                    "id": "p24b",
+                    "firstName": "Antonina",
+                    "lastNameOrLegalForm": "Jäkel",
+                    "street": "Austermühlering 5",
+                    "zip": "85497",
+                    "location": "Wiedenbrück"
+                },
+                {
+                    "id": "p24c",
+                    "firstName": "Jäkel Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Austermühlering 5",
+                    "zip": "85497",
+                    "location": "Wiedenbrück"
+                }
+            ]
+        },
+        {
+            "key": "25",
+            "name": "Hans-Hermann Schweitzer",
+            "mail": "neuschaeferdursun@aol.de",
+            "phone": "08908 65383",
+            "unitsInPortfolio": 190411.63,
+            "lastPurchase": "22.05.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Hans-Hermann",
+                "lastName": "Schweitzer",
+                "street": "Carmelo-Gertz-Platz 51",
+                "zip": "57685",
+                "location": "Crailsheim",
+                "mail": "neuschaeferdursun@aol.de",
+                "phone": "+49(0)5878 747566",
+                "mobil": "08908 65383",
+                "birthDate": "16.12.1971",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "4425/207/3395",
+                "taxOffice": "Crailsheim",
+                "income": 164437,
+                "job": "Informatiker",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Schleswig-Holstein",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p25a",
+                    "firstName": "Hans-Hermann",
+                    "lastNameOrLegalForm": "Schweitzer",
+                    "street": "Carmelo-Gertz-Platz 51",
+                    "zip": "57685",
+                    "location": "Crailsheim"
+                },
+                {
+                    "id": "p25b",
+                    "firstName": "Traute",
+                    "lastNameOrLegalForm": "Schweitzer",
+                    "street": "Carmelo-Gertz-Platz 51",
+                    "zip": "57685",
+                    "location": "Crailsheim"
+                },
+                {
+                    "id": "p25c",
+                    "firstName": "Schweitzer Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Carmelo-Gertz-Platz 51",
+                    "zip": "57685",
+                    "location": "Crailsheim"
+                }
+            ]
+        },
+        {
+            "key": "26",
+            "name": "Hans-Willi Hendriks",
+            "mail": "dennis61@yahoo.de",
+            "phone": "+49(0)9232 283090",
+            "unitsInPortfolio": 179474.2,
+            "lastPurchase": "07.10.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Hans-Willi",
+                "lastName": "Hendriks",
+                "street": "Neureutherplatz 0",
+                "zip": "31025",
+                "location": "Pfaffenhofen an der Ilm",
+                "mail": "dennis61@yahoo.de",
+                "phone": "09294 302264",
+                "mobil": "+49(0)9232 283090",
+                "birthDate": "26.02.1970",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "5130/428/1045",
+                "taxOffice": "Pfaffenhofen an der Ilm",
+                "income": 46211,
+                "job": "Chirurgiemechaniker",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Hessen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p26a",
+                    "firstName": "Hans-Willi",
+                    "lastNameOrLegalForm": "Hendriks",
+                    "street": "Neureutherplatz 0",
+                    "zip": "31025",
+                    "location": "Pfaffenhofen an der Ilm"
+                },
+                {
+                    "id": "p26b",
+                    "firstName": "Bärbel",
+                    "lastNameOrLegalForm": "Hendriks",
+                    "street": "Neureutherplatz 0",
+                    "zip": "31025",
+                    "location": "Pfaffenhofen an der Ilm"
+                },
+                {
+                    "id": "p26c",
+                    "firstName": "Hendriks Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Neureutherplatz 0",
+                    "zip": "31025",
+                    "location": "Pfaffenhofen an der Ilm"
+                }
+            ]
+        },
+        {
+            "key": "27",
+            "name": "Eckhart Löchel",
+            "mail": "knappeisolde@striebitz.com",
+            "phone": "(00606) 19235",
+            "unitsInPortfolio": 460921.95,
+            "lastPurchase": "09.01.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Eckhart",
+                "lastName": "Löchel",
+                "street": "Matteo-Holzapfel-Allee 164",
+                "zip": "42319",
+                "location": "Gelnhausen",
+                "mail": "knappeisolde@striebitz.com",
+                "phone": "0028928491",
+                "mobil": "(00606) 19235",
+                "birthDate": "26.07.1992",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "7334/207/7783",
+                "taxOffice": "Gelnhausen",
+                "income": 262057,
+                "job": "Chemikant",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Brandenburg",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p27a",
+                    "firstName": "Eckhart",
+                    "lastNameOrLegalForm": "Löchel",
+                    "street": "Matteo-Holzapfel-Allee 164",
+                    "zip": "42319",
+                    "location": "Gelnhausen"
+                },
+                {
+                    "id": "p27b",
+                    "firstName": "Augusta",
+                    "lastNameOrLegalForm": "Löchel",
+                    "street": "Matteo-Holzapfel-Allee 164",
+                    "zip": "42319",
+                    "location": "Gelnhausen"
+                },
+                {
+                    "id": "p27c",
+                    "firstName": "Löchel Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Matteo-Holzapfel-Allee 164",
+                    "zip": "42319",
+                    "location": "Gelnhausen"
+                }
+            ]
+        },
+        {
+            "key": "28",
+            "name": "Hans-Jochen Patberg",
+            "mail": "janinullmann@auch.de",
+            "phone": "08649 970832",
+            "unitsInPortfolio": 198195.36,
+            "lastPurchase": "17.09.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Hans-Jochen",
+                "lastName": "Patberg",
+                "street": "Elmar-auch Schlauchin-Allee 6",
+                "zip": "01806",
+                "location": "Neubrandenburg",
+                "mail": "janinullmann@auch.de",
+                "phone": "+49(0)2134 848849",
+                "mobil": "08649 970832",
+                "birthDate": "10.07.1975",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "6402/702/2398",
+                "taxOffice": "Neubrandenburg",
+                "income": 185916,
+                "job": "Fachinformatiker",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Schleswig-Holstein",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p28a",
+                    "firstName": "Hans-Jochen",
+                    "lastNameOrLegalForm": "Patberg",
+                    "street": "Elmar-auch Schlauchin-Allee 6",
+                    "zip": "01806",
+                    "location": "Neubrandenburg"
+                },
+                {
+                    "id": "p28b",
+                    "firstName": "Birgit",
+                    "lastNameOrLegalForm": "Patberg",
+                    "street": "Elmar-auch Schlauchin-Allee 6",
+                    "zip": "01806",
+                    "location": "Neubrandenburg"
+                },
+                {
+                    "id": "p28c",
+                    "firstName": "Patberg Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Elmar-auch Schlauchin-Allee 6",
+                    "zip": "01806",
+                    "location": "Neubrandenburg"
+                }
+            ]
+        },
+        {
+            "key": "29",
+            "name": "Lars Zorbach",
+            "mail": "hkambs@misicher.org",
+            "phone": "+49(0)9744 23784",
+            "unitsInPortfolio": 466218.65,
+            "lastPurchase": "14.10.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Lars",
+                "lastName": "Zorbach",
+                "street": "Katalin-Wagenknecht-Platz 991",
+                "zip": "90265",
+                "location": "Ahaus",
+                "mail": "hkambs@misicher.org",
+                "phone": "(06035) 722727",
+                "mobil": "+49(0)9744 23784",
+                "birthDate": "14.10.1965",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "1400/174/9370",
+                "taxOffice": "Ahaus",
+                "income": 266415,
+                "job": "Krankenschwester",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Hessen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p29a",
+                    "firstName": "Lars",
+                    "lastNameOrLegalForm": "Zorbach",
+                    "street": "Katalin-Wagenknecht-Platz 991",
+                    "zip": "90265",
+                    "location": "Ahaus"
+                },
+                {
+                    "id": "p29b",
+                    "firstName": "Martine",
+                    "lastNameOrLegalForm": "Zorbach",
+                    "street": "Katalin-Wagenknecht-Platz 991",
+                    "zip": "90265",
+                    "location": "Ahaus"
+                },
+                {
+                    "id": "p29c",
+                    "firstName": "Zorbach Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Katalin-Wagenknecht-Platz 991",
+                    "zip": "90265",
+                    "location": "Ahaus"
+                }
+            ]
+        },
+        {
+            "key": "30",
+            "name": "Dietrich Hendriks",
+            "mail": "fraukesaeuberlich@mohaupt.de",
+            "phone": "07479 162558",
+            "unitsInPortfolio": 116531.21,
+            "lastPurchase": "19.12.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Dietrich",
+                "lastName": "Hendriks",
+                "street": "Harloffstr. 4",
+                "zip": "78578",
+                "location": "Heiligenstadt",
+                "mail": "fraukesaeuberlich@mohaupt.de",
+                "phone": "00475 11805",
+                "mobil": "07479 162558",
+                "birthDate": "21.06.1954",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "5438/309/1898",
+                "taxOffice": "Heiligenstadt",
+                "income": 65598,
+                "job": "Techniker",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Bayern",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p30a",
+                    "firstName": "Dietrich",
+                    "lastNameOrLegalForm": "Hendriks",
+                    "street": "Harloffstr. 4",
+                    "zip": "78578",
+                    "location": "Heiligenstadt"
+                },
+                {
+                    "id": "p30b",
+                    "firstName": "Julie",
+                    "lastNameOrLegalForm": "Hendriks",
+                    "street": "Harloffstr. 4",
+                    "zip": "78578",
+                    "location": "Heiligenstadt"
+                },
+                {
+                    "id": "p30c",
+                    "firstName": "Hendriks Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Harloffstr. 4",
+                    "zip": "78578",
+                    "location": "Heiligenstadt"
+                }
+            ]
+        },
+        {
+            "key": "31",
+            "name": "Martin Juncken",
+            "mail": "soelzernecati@thies.net",
+            "phone": "+49(0)0149 11741",
+            "unitsInPortfolio": 495831.53,
+            "lastPurchase": "18.04.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Martin",
+                "lastName": "Juncken",
+                "street": "Pedro-Heydrich-Straße 78",
+                "zip": "11208",
+                "location": "Quedlinburg",
+                "mail": "soelzernecati@thies.net",
+                "phone": "07575381972",
+                "mobil": "+49(0)0149 11741",
+                "birthDate": "18.01.1969",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "4027/971/4833",
+                "taxOffice": "Quedlinburg",
+                "income": 172176,
+                "job": "Krankenschwester",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Mecklenburg-Vorpommern",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p31a",
+                    "firstName": "Martin",
+                    "lastNameOrLegalForm": "Juncken",
+                    "street": "Pedro-Heydrich-Straße 78",
+                    "zip": "11208",
+                    "location": "Quedlinburg"
+                },
+                {
+                    "id": "p31b",
+                    "firstName": "Brigitta",
+                    "lastNameOrLegalForm": "Juncken",
+                    "street": "Pedro-Heydrich-Straße 78",
+                    "zip": "11208",
+                    "location": "Quedlinburg"
+                },
+                {
+                    "id": "p31c",
+                    "firstName": "Juncken Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Pedro-Heydrich-Straße 78",
+                    "zip": "11208",
+                    "location": "Quedlinburg"
+                }
+            ]
+        },
+        {
+            "key": "32",
+            "name": "Antonio Hein",
+            "mail": "dditschlerin@sauer.de",
+            "phone": "04294066763",
+            "unitsInPortfolio": 267805.27,
+            "lastPurchase": "24.05.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Antonio",
+                "lastName": "Hein",
+                "street": "Kriemhild-Metz-Allee 2",
+                "zip": "58219",
+                "location": "Garmisch-Partenkirchen",
+                "mail": "dditschlerin@sauer.de",
+                "phone": "04588465899",
+                "mobil": "04294066763",
+                "birthDate": "04.03.1950",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "7169/600/4875",
+                "taxOffice": "Garmisch-Partenkirchen",
+                "income": 292880,
+                "job": "Mathematiker",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Schleswig-Holstein",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p32a",
+                    "firstName": "Antonio",
+                    "lastNameOrLegalForm": "Hein",
+                    "street": "Kriemhild-Metz-Allee 2",
+                    "zip": "58219",
+                    "location": "Garmisch-Partenkirchen"
+                },
+                {
+                    "id": "p32b",
+                    "firstName": "Meryem",
+                    "lastNameOrLegalForm": "Hein",
+                    "street": "Kriemhild-Metz-Allee 2",
+                    "zip": "58219",
+                    "location": "Garmisch-Partenkirchen"
+                },
+                {
+                    "id": "p32c",
+                    "firstName": "Hein Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Kriemhild-Metz-Allee 2",
+                    "zip": "58219",
+                    "location": "Garmisch-Partenkirchen"
+                }
+            ]
+        },
+        {
+            "key": "33",
+            "name": "Kristian Hering",
+            "mail": "lbirnbaum@yahoo.de",
+            "phone": "+49(0) 356843845",
+            "unitsInPortfolio": 414697.3,
+            "lastPurchase": "11.03.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Kristian",
+                "lastName": "Hering",
+                "street": "Edmund-Schulz-Straße 35",
+                "zip": "95853",
+                "location": "Säckingen",
+                "mail": "lbirnbaum@yahoo.de",
+                "phone": "09735 03097",
+                "mobil": "+49(0) 356843845",
+                "birthDate": "07.12.1951",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "8708/281/2957",
+                "taxOffice": "Säckingen",
+                "income": 157640,
+                "job": "Mathematiker",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Hamburg",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p33a",
+                    "firstName": "Kristian",
+                    "lastNameOrLegalForm": "Hering",
+                    "street": "Edmund-Schulz-Straße 35",
+                    "zip": "95853",
+                    "location": "Säckingen"
+                },
+                {
+                    "id": "p33b",
+                    "firstName": "Kreszenz",
+                    "lastNameOrLegalForm": "Hering",
+                    "street": "Edmund-Schulz-Straße 35",
+                    "zip": "95853",
+                    "location": "Säckingen"
+                },
+                {
+                    "id": "p33c",
+                    "firstName": "Hering Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Edmund-Schulz-Straße 35",
+                    "zip": "95853",
+                    "location": "Säckingen"
+                }
+            ]
+        },
+        {
+            "key": "34",
+            "name": "Eckhardt Geisel",
+            "mail": "ireichmann@jockel.org",
+            "phone": "+49(0)1102 284008",
+            "unitsInPortfolio": 461611.68,
+            "lastPurchase": "15.07.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Eckhardt",
+                "lastName": "Geisel",
+                "street": "Friedhold-Weiß-Ring 8",
+                "zip": "70850",
+                "location": "Gardelegen",
+                "mail": "ireichmann@jockel.org",
+                "phone": "05913 771497",
+                "mobil": "+49(0)1102 284008",
+                "birthDate": "06.04.1983",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "4769/302/9639",
+                "taxOffice": "Gardelegen",
+                "income": 171823,
+                "job": "Pfleger",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Sachsen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p34a",
+                    "firstName": "Eckhardt",
+                    "lastNameOrLegalForm": "Geisel",
+                    "street": "Friedhold-Weiß-Ring 8",
+                    "zip": "70850",
+                    "location": "Gardelegen"
+                },
+                {
+                    "id": "p34b",
+                    "firstName": "Mareike",
+                    "lastNameOrLegalForm": "Geisel",
+                    "street": "Friedhold-Weiß-Ring 8",
+                    "zip": "70850",
+                    "location": "Gardelegen"
+                },
+                {
+                    "id": "p34c",
+                    "firstName": "Geisel Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Friedhold-Weiß-Ring 8",
+                    "zip": "70850",
+                    "location": "Gardelegen"
+                }
+            ]
+        },
+        {
+            "key": "35",
+            "name": "Harold Heuser",
+            "mail": "francishoffmann@budig.de",
+            "phone": "08266 88757",
+            "unitsInPortfolio": 216859.29,
+            "lastPurchase": "01.06.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Harold",
+                "lastName": "Heuser",
+                "street": "Rosenowweg 8",
+                "zip": "29151",
+                "location": "Hannoversch Münden",
+                "mail": "francishoffmann@budig.de",
+                "phone": "+49(0) 966530501",
+                "mobil": "08266 88757",
+                "birthDate": "08.07.1974",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "5936/107/4175",
+                "taxOffice": "Hannoversch Münden",
+                "income": 60324,
+                "job": "Augenoptiker",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Saarland",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p35a",
+                    "firstName": "Harold",
+                    "lastNameOrLegalForm": "Heuser",
+                    "street": "Rosenowweg 8",
+                    "zip": "29151",
+                    "location": "Hannoversch Münden"
+                },
+                {
+                    "id": "p35b",
+                    "firstName": "Krystyna",
+                    "lastNameOrLegalForm": "Heuser",
+                    "street": "Rosenowweg 8",
+                    "zip": "29151",
+                    "location": "Hannoversch Münden"
+                },
+                {
+                    "id": "p35c",
+                    "firstName": "Heuser Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Rosenowweg 8",
+                    "zip": "29151",
+                    "location": "Hannoversch Münden"
+                }
+            ]
+        },
+        {
+            "key": "36",
+            "name": "Frank Beyer",
+            "mail": "ali57@loeffler.de",
+            "phone": "(02894) 20295",
+            "unitsInPortfolio": 408053.98,
+            "lastPurchase": "22.05.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Frank",
+                "lastName": "Beyer",
+                "street": "Mareike-Koch II-Allee 60",
+                "zip": "50240",
+                "location": "Borken",
+                "mail": "ali57@loeffler.de",
+                "phone": "+49(0) 744847107",
+                "mobil": "(02894) 20295",
+                "birthDate": "30.09.1962",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "7773/183/9580",
+                "taxOffice": "Borken",
+                "income": 50001,
+                "job": "Winzer",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Schleswig-Holstein",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p36a",
+                    "firstName": "Frank",
+                    "lastNameOrLegalForm": "Beyer",
+                    "street": "Mareike-Koch II-Allee 60",
+                    "zip": "50240",
+                    "location": "Borken"
+                },
+                {
+                    "id": "p36b",
+                    "firstName": "Luisa",
+                    "lastNameOrLegalForm": "Beyer",
+                    "street": "Mareike-Koch II-Allee 60",
+                    "zip": "50240",
+                    "location": "Borken"
+                },
+                {
+                    "id": "p36c",
+                    "firstName": "Beyer Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Mareike-Koch II-Allee 60",
+                    "zip": "50240",
+                    "location": "Borken"
+                }
+            ]
+        },
+        {
+            "key": "37",
+            "name": "René Heidrich",
+            "mail": "beatrixrust@gmx.de",
+            "phone": "+49(0)1660 688400",
+            "unitsInPortfolio": 456482.16,
+            "lastPurchase": "11.11.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "René",
+                "lastName": "Heidrich",
+                "street": "Schaafgasse 5/8",
+                "zip": "62000",
+                "location": "Wanzleben",
+                "mail": "beatrixrust@gmx.de",
+                "phone": "08917741973",
+                "mobil": "+49(0)1660 688400",
+                "birthDate": "20.01.1994",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "1751/566/8483",
+                "taxOffice": "Wanzleben",
+                "income": 272361,
+                "job": "Mechaniker",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Sachsen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p37a",
+                    "firstName": "René",
+                    "lastNameOrLegalForm": "Heidrich",
+                    "street": "Schaafgasse 5/8",
+                    "zip": "62000",
+                    "location": "Wanzleben"
+                },
+                {
+                    "id": "p37b",
+                    "firstName": "Filiz",
+                    "lastNameOrLegalForm": "Heidrich",
+                    "street": "Schaafgasse 5/8",
+                    "zip": "62000",
+                    "location": "Wanzleben"
+                },
+                {
+                    "id": "p37c",
+                    "firstName": "Heidrich Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Schaafgasse 5/8",
+                    "zip": "62000",
+                    "location": "Wanzleben"
+                }
+            ]
+        },
+        {
+            "key": "38",
+            "name": "Nikolaus Seifert",
+            "mail": "baerbel79@harloff.de",
+            "phone": "(08367) 750759",
+            "unitsInPortfolio": 454360.25,
+            "lastPurchase": "27.07.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Nikolaus",
+                "lastName": "Seifert",
+                "street": "Marius-Nette-Allee 740",
+                "zip": "90766",
+                "location": "Karlsruhe",
+                "mail": "baerbel79@harloff.de",
+                "phone": "+49(0) 543560232",
+                "mobil": "(08367) 750759",
+                "birthDate": "04.10.1991",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "3339/691/6331",
+                "taxOffice": "Karlsruhe",
+                "income": 173402,
+                "job": "Winzer",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Schleswig-Holstein",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p38a",
+                    "firstName": "Nikolaus",
+                    "lastNameOrLegalForm": "Seifert",
+                    "street": "Marius-Nette-Allee 740",
+                    "zip": "90766",
+                    "location": "Karlsruhe"
+                },
+                {
+                    "id": "p38b",
+                    "firstName": "Anna",
+                    "lastNameOrLegalForm": "Seifert",
+                    "street": "Marius-Nette-Allee 740",
+                    "zip": "90766",
+                    "location": "Karlsruhe"
+                },
+                {
+                    "id": "p38c",
+                    "firstName": "Seifert Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Marius-Nette-Allee 740",
+                    "zip": "90766",
+                    "location": "Karlsruhe"
+                }
+            ]
+        },
+        {
+            "key": "39",
+            "name": "Götz Stoll",
+            "mail": "wilmsanny@gorlitz.org",
+            "phone": "+49(0) 059941264",
+            "unitsInPortfolio": 461695.91,
+            "lastPurchase": "08.12.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Götz",
+                "lastName": "Stoll",
+                "street": "Adem-Säuberlich-Allee 9/0",
+                "zip": "43092",
+                "location": "Kamenz",
+                "mail": "wilmsanny@gorlitz.org",
+                "phone": "(06462) 180673",
+                "mobil": "+49(0) 059941264",
+                "birthDate": "17.06.1974",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "5054/327/1964",
+                "taxOffice": "Kamenz",
+                "income": 197310,
+                "job": "Elektroniker",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Saarland",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p39a",
+                    "firstName": "Götz",
+                    "lastNameOrLegalForm": "Stoll",
+                    "street": "Adem-Säuberlich-Allee 9/0",
+                    "zip": "43092",
+                    "location": "Kamenz"
+                },
+                {
+                    "id": "p39b",
+                    "firstName": "Dajana",
+                    "lastNameOrLegalForm": "Stoll",
+                    "street": "Adem-Säuberlich-Allee 9/0",
+                    "zip": "43092",
+                    "location": "Kamenz"
+                },
+                {
+                    "id": "p39c",
+                    "firstName": "Stoll Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Adem-Säuberlich-Allee 9/0",
+                    "zip": "43092",
+                    "location": "Kamenz"
+                }
+            ]
+        },
+        {
+            "key": "40",
+            "name": "Hassan Holzapfel",
+            "mail": "koehlermelanie@gmx.de",
+            "phone": "(03082) 99262",
+            "unitsInPortfolio": 291624.03,
+            "lastPurchase": "09.02.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Hassan",
+                "lastName": "Holzapfel",
+                "street": "Damaris-Benthin-Ring 34",
+                "zip": "02321",
+                "location": "Worbis",
+                "mail": "koehlermelanie@gmx.de",
+                "phone": "+49(0)6964 08222",
+                "mobil": "(03082) 99262",
+                "birthDate": "31.07.1980",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "9703/360/9079",
+                "taxOffice": "Worbis",
+                "income": 298879,
+                "job": "Beamter",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Baden-Württemberg",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p40a",
+                    "firstName": "Hassan",
+                    "lastNameOrLegalForm": "Holzapfel",
+                    "street": "Damaris-Benthin-Ring 34",
+                    "zip": "02321",
+                    "location": "Worbis"
+                },
+                {
+                    "id": "p40b",
+                    "firstName": "Christina",
+                    "lastNameOrLegalForm": "Holzapfel",
+                    "street": "Damaris-Benthin-Ring 34",
+                    "zip": "02321",
+                    "location": "Worbis"
+                },
+                {
+                    "id": "p40c",
+                    "firstName": "Holzapfel Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Damaris-Benthin-Ring 34",
+                    "zip": "02321",
+                    "location": "Worbis"
+                }
+            ]
+        },
+        {
+            "key": "41",
+            "name": "Hassan Kramer",
+            "mail": "dzorbach@googlemail.com",
+            "phone": "(05755) 03418",
+            "unitsInPortfolio": 203614.36,
+            "lastPurchase": "05.05.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Hassan",
+                "lastName": "Kramer",
+                "street": "Josephine-Kusch-Allee 27",
+                "zip": "35123",
+                "location": "Mühlhausen",
+                "mail": "dzorbach@googlemail.com",
+                "phone": "+49 (0) 4882 937045",
+                "mobil": "(05755) 03418",
+                "birthDate": "29.05.1992",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "3089/977/5655",
+                "taxOffice": "Mühlhausen",
+                "income": 49797,
+                "job": "Bankkaufmann",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Nordrhein-Westfalen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p41a",
+                    "firstName": "Hassan",
+                    "lastNameOrLegalForm": "Kramer",
+                    "street": "Josephine-Kusch-Allee 27",
+                    "zip": "35123",
+                    "location": "Mühlhausen"
+                },
+                {
+                    "id": "p41b",
+                    "firstName": "Gundula",
+                    "lastNameOrLegalForm": "Kramer",
+                    "street": "Josephine-Kusch-Allee 27",
+                    "zip": "35123",
+                    "location": "Mühlhausen"
+                },
+                {
+                    "id": "p41c",
+                    "firstName": "Kramer Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Josephine-Kusch-Allee 27",
+                    "zip": "35123",
+                    "location": "Mühlhausen"
+                }
+            ]
+        },
+        {
+            "key": "42",
+            "name": "Friedrich Baum",
+            "mail": "rustholm@roerricht.net",
+            "phone": "+49 (0) 3607 685186",
+            "unitsInPortfolio": 199993.88,
+            "lastPurchase": "05.10.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Friedrich",
+                "lastName": "Baum",
+                "street": "Elmar-Wulff-Platz 4",
+                "zip": "98450",
+                "location": "Schmölln",
+                "mail": "rustholm@roerricht.net",
+                "phone": "+49(0)8730146977",
+                "mobil": "+49 (0) 3607 685186",
+                "birthDate": "10.04.1958",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "6007/976/3307",
+                "taxOffice": "Schmölln",
+                "income": 131980,
+                "job": "Binnenschiffer",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Saarland",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p42a",
+                    "firstName": "Friedrich",
+                    "lastNameOrLegalForm": "Baum",
+                    "street": "Elmar-Wulff-Platz 4",
+                    "zip": "98450",
+                    "location": "Schmölln"
+                },
+                {
+                    "id": "p42b",
+                    "firstName": "Mirja",
+                    "lastNameOrLegalForm": "Baum",
+                    "street": "Elmar-Wulff-Platz 4",
+                    "zip": "98450",
+                    "location": "Schmölln"
+                },
+                {
+                    "id": "p42c",
+                    "firstName": "Baum Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Elmar-Wulff-Platz 4",
+                    "zip": "98450",
+                    "location": "Schmölln"
+                }
+            ]
+        },
+        {
+            "key": "43",
+            "name": "Aleksej Mohaupt",
+            "mail": "fjacobi-jaeckel@koch.de",
+            "phone": "+49 (0) 7474 827585",
+            "unitsInPortfolio": 491494.06,
+            "lastPurchase": "25.04.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Aleksej",
+                "lastName": "Mohaupt",
+                "street": "Sibille-Rohleder-Platz 3",
+                "zip": "31248",
+                "location": "Freising",
+                "mail": "fjacobi-jaeckel@koch.de",
+                "phone": "(02896) 855832",
+                "mobil": "+49 (0) 7474 827585",
+                "birthDate": "26.09.1992",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "9584/304/4436",
+                "taxOffice": "Freising",
+                "income": 111312,
+                "job": "Arzt",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Bayern",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p43a",
+                    "firstName": "Aleksej",
+                    "lastNameOrLegalForm": "Mohaupt",
+                    "street": "Sibille-Rohleder-Platz 3",
+                    "zip": "31248",
+                    "location": "Freising"
+                },
+                {
+                    "id": "p43b",
+                    "firstName": "Lieselotte",
+                    "lastNameOrLegalForm": "Mohaupt",
+                    "street": "Sibille-Rohleder-Platz 3",
+                    "zip": "31248",
+                    "location": "Freising"
+                },
+                {
+                    "id": "p43c",
+                    "firstName": "Mohaupt Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Sibille-Rohleder-Platz 3",
+                    "zip": "31248",
+                    "location": "Freising"
+                }
+            ]
+        },
+        {
+            "key": "44",
+            "name": "Timo Finke",
+            "mail": "mitschkehuelya@jaehn.com",
+            "phone": "01793353614",
+            "unitsInPortfolio": 182213.96,
+            "lastPurchase": "31.10.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Timo",
+                "lastName": "Finke",
+                "street": "Weißweg 5/7",
+                "zip": "15434",
+                "location": "Berchtesgaden",
+                "mail": "mitschkehuelya@jaehn.com",
+                "phone": "+49(0) 170128831",
+                "mobil": "01793353614",
+                "birthDate": "13.07.1981",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "4499/381/2593",
+                "taxOffice": "Berchtesgaden",
+                "income": 126203,
+                "job": "Arzt",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Hessen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p44a",
+                    "firstName": "Timo",
+                    "lastNameOrLegalForm": "Finke",
+                    "street": "Weißweg 5/7",
+                    "zip": "15434",
+                    "location": "Berchtesgaden"
+                },
+                {
+                    "id": "p44b",
+                    "firstName": "Ewa",
+                    "lastNameOrLegalForm": "Finke",
+                    "street": "Weißweg 5/7",
+                    "zip": "15434",
+                    "location": "Berchtesgaden"
+                },
+                {
+                    "id": "p44c",
+                    "firstName": "Finke Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Weißweg 5/7",
+                    "zip": "15434",
+                    "location": "Berchtesgaden"
+                }
+            ]
+        },
+        {
+            "key": "45",
+            "name": "Lambert Rust",
+            "mail": "rrogge@web.de",
+            "phone": "07869280553",
+            "unitsInPortfolio": 334729.23,
+            "lastPurchase": "08.03.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Lambert",
+                "lastName": "Rust",
+                "street": "Schmidtplatz 5",
+                "zip": "12150",
+                "location": "Tübingen",
+                "mail": "rrogge@web.de",
+                "phone": "0099717997",
+                "mobil": "07869280553",
+                "birthDate": "22.02.1978",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "7788/293/4141",
+                "taxOffice": "Tübingen",
+                "income": 236044,
+                "job": "Mechaniker",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Saarland",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p45a",
+                    "firstName": "Lambert",
+                    "lastNameOrLegalForm": "Rust",
+                    "street": "Schmidtplatz 5",
+                    "zip": "12150",
+                    "location": "Tübingen"
+                },
+                {
+                    "id": "p45b",
+                    "firstName": "Gülten",
+                    "lastNameOrLegalForm": "Rust",
+                    "street": "Schmidtplatz 5",
+                    "zip": "12150",
+                    "location": "Tübingen"
+                },
+                {
+                    "id": "p45c",
+                    "firstName": "Rust Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Schmidtplatz 5",
+                    "zip": "12150",
+                    "location": "Tübingen"
+                }
+            ]
+        },
+        {
+            "key": "46",
+            "name": "Ekkehart Hahn",
+            "mail": "beyerliesbeth@speer.de",
+            "phone": "+49(0)7488 571838",
+            "unitsInPortfolio": 232774.19,
+            "lastPurchase": "02.02.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Ekkehart",
+                "lastName": "Hahn",
+                "street": "Eric-Birnbaum-Weg 6",
+                "zip": "54290",
+                "location": "Grimmen",
+                "mail": "beyerliesbeth@speer.de",
+                "phone": "+49 (0) 5352 155568",
+                "mobil": "+49(0)7488 571838",
+                "birthDate": "25.12.1981",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "1647/362/6650",
+                "taxOffice": "Grimmen",
+                "income": 41351,
+                "job": "Techniker",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Schleswig-Holstein",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p46a",
+                    "firstName": "Ekkehart",
+                    "lastNameOrLegalForm": "Hahn",
+                    "street": "Eric-Birnbaum-Weg 6",
+                    "zip": "54290",
+                    "location": "Grimmen"
+                },
+                {
+                    "id": "p46b",
+                    "firstName": "Lidia",
+                    "lastNameOrLegalForm": "Hahn",
+                    "street": "Eric-Birnbaum-Weg 6",
+                    "zip": "54290",
+                    "location": "Grimmen"
+                },
+                {
+                    "id": "p46c",
+                    "firstName": "Hahn Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Eric-Birnbaum-Weg 6",
+                    "zip": "54290",
+                    "location": "Grimmen"
+                }
+            ]
+        },
+        {
+            "key": "47",
+            "name": "Adelbert Ebert",
+            "mail": "svea83@hotmail.de",
+            "phone": "05188749371",
+            "unitsInPortfolio": 177381.91,
+            "lastPurchase": "04.02.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Adelbert",
+                "lastName": "Ebert",
+                "street": "Kensygasse 924",
+                "zip": "32772",
+                "location": "Rochlitz",
+                "mail": "svea83@hotmail.de",
+                "phone": "(08185) 31847",
+                "mobil": "05188749371",
+                "birthDate": "10.12.1950",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "2668/415/8300",
+                "taxOffice": "Rochlitz",
+                "income": 215023,
+                "job": "Friseur",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Berlin",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p47a",
+                    "firstName": "Adelbert",
+                    "lastNameOrLegalForm": "Ebert",
+                    "street": "Kensygasse 924",
+                    "zip": "32772",
+                    "location": "Rochlitz"
+                },
+                {
+                    "id": "p47b",
+                    "firstName": "Irmtraud",
+                    "lastNameOrLegalForm": "Ebert",
+                    "street": "Kensygasse 924",
+                    "zip": "32772",
+                    "location": "Rochlitz"
+                },
+                {
+                    "id": "p47c",
+                    "firstName": "Ebert Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Kensygasse 924",
+                    "zip": "32772",
+                    "location": "Rochlitz"
+                }
+            ]
+        },
+        {
+            "key": "48",
+            "name": "Jürgen Gumprich",
+            "mail": "zorbachemil@steckel.org",
+            "phone": "0457387446",
+            "unitsInPortfolio": 155710.88,
+            "lastPurchase": "20.02.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Jürgen",
+                "lastName": "Gumprich",
+                "street": "Giuseppe-Lehmann-Straße 3",
+                "zip": "91083",
+                "location": "Havelberg",
+                "mail": "zorbachemil@steckel.org",
+                "phone": "0957462105",
+                "mobil": "0457387446",
+                "birthDate": "12.01.1961",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "7136/116/5981",
+                "taxOffice": "Havelberg",
+                "income": 171261,
+                "job": "Erzieher",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Nordrhein-Westfalen",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p48a",
+                    "firstName": "Jürgen",
+                    "lastNameOrLegalForm": "Gumprich",
+                    "street": "Giuseppe-Lehmann-Straße 3",
+                    "zip": "91083",
+                    "location": "Havelberg"
+                },
+                {
+                    "id": "p48b",
+                    "firstName": "Imke",
+                    "lastNameOrLegalForm": "Gumprich",
+                    "street": "Giuseppe-Lehmann-Straße 3",
+                    "zip": "91083",
+                    "location": "Havelberg"
+                },
+                {
+                    "id": "p48c",
+                    "firstName": "Gumprich Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Giuseppe-Lehmann-Straße 3",
+                    "zip": "91083",
+                    "location": "Havelberg"
+                }
+            ]
+        },
+        {
+            "key": "49",
+            "name": "Richard Metz",
+            "mail": "rebekkaroehricht@hotmail.de",
+            "phone": "0836894051",
+            "unitsInPortfolio": 466618.53,
+            "lastPurchase": "13.07.2024",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Richard",
+                "lastName": "Metz",
+                "street": "Jan-Peter-Schlosser-Allee 6/5",
+                "zip": "18674",
+                "location": "Halberstadt",
+                "mail": "rebekkaroehricht@hotmail.de",
+                "phone": "+49(0) 932114577",
+                "mobil": "0836894051",
+                "birthDate": "14.05.1980",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "2412/192/4843",
+                "taxOffice": "Halberstadt",
+                "income": 232125,
+                "job": "Informatiker",
+                "taxTable": "Splitting",
+                "churchTax": true,
+                "federalState": "Brandenburg",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p49a",
+                    "firstName": "Richard",
+                    "lastNameOrLegalForm": "Metz",
+                    "street": "Jan-Peter-Schlosser-Allee 6/5",
+                    "zip": "18674",
+                    "location": "Halberstadt"
+                },
+                {
+                    "id": "p49b",
+                    "firstName": "Sarah",
+                    "lastNameOrLegalForm": "Metz",
+                    "street": "Jan-Peter-Schlosser-Allee 6/5",
+                    "zip": "18674",
+                    "location": "Halberstadt"
+                },
+                {
+                    "id": "p49c",
+                    "firstName": "Metz Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Jan-Peter-Schlosser-Allee 6/5",
+                    "zip": "18674",
+                    "location": "Halberstadt"
+                }
+            ]
+        },
+        {
+            "key": "50",
+            "name": "Guiseppe Heinrich",
+            "mail": "ella92@aol.de",
+            "phone": "07788114030",
+            "unitsInPortfolio": 364778.25,
+            "lastPurchase": "01.07.2025",
+            "personalData": {
+                "title": "Mr.",
+                "firstName": "Guiseppe",
+                "lastName": "Heinrich",
+                "street": "Bärerweg 6/2",
+                "zip": "33880",
+                "location": "Rothenburg ob der Tauber",
+                "mail": "ella92@aol.de",
+                "phone": "09448240305",
+                "mobil": "07788114030",
+                "birthDate": "19.07.1981",
+                "differentPostalAddress": false
+            },
+            "financialData": {
+                "taxNumber": "4839/141/8210",
+                "taxOffice": "Rothenburg ob der Tauber",
+                "income": 129832,
+                "job": "Forstwirt",
+                "taxTable": "Splitting",
+                "churchTax": false,
+                "federalState": "Hamburg",
+                "notes": "Generated mock data for testing."
+            },
+            "personas": [
+                {
+                    "id": "p50a",
+                    "firstName": "Guiseppe",
+                    "lastNameOrLegalForm": "Heinrich",
+                    "street": "Bärerweg 6/2",
+                    "zip": "33880",
+                    "location": "Rothenburg ob der Tauber"
+                },
+                {
+                    "id": "p50b",
+                    "firstName": "Marie-Therese",
+                    "lastNameOrLegalForm": "Heinrich",
+                    "street": "Bärerweg 6/2",
+                    "zip": "33880",
+                    "location": "Rothenburg ob der Tauber"
+                },
+                {
+                    "id": "p50c",
+                    "firstName": "Heinrich Invest",
+                    "lastNameOrLegalForm": "GbR",
+                    "street": "Bärerweg 6/2",
+                    "zip": "33880",
+                    "location": "Rothenburg ob der Tauber"
+                }
+            ]
+        }
+    ]
+}

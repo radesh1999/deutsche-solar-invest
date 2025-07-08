@@ -1,0 +1,47 @@
+{
+    "folders": [
+        {
+            "name": "Land Register",
+            "count": 2
+        },
+        {
+            "name": "Maindocuments",
+            "count": 3
+        },
+        {
+            "name": "Annexes Purchase contract",
+            "count": 8
+        },
+        {
+            "name": "Annexes Management contract",
+            "count": 3
+        }
+    ],
+    "files": [
+        {
+            "name": "Exposee",
+            "modificationDate": "Tuesday, 03.03.2025, 06:23",
+            "size": "2,34 MB"
+        },
+        {
+            "name": "PV-Sol",
+            "modificationDate": "Thursday, 05.05.2025, 14:33",
+            "size": "200,345 KB"
+        },
+        {
+            "name": "Structural analysis",
+            "modificationDate": "Monday, 06.06.2025, 17:02",
+            "size": "2,345 MB"
+        }
+    ],
+    "images": [
+        "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=500",
+        "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=500",
+        "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=500",
+        "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=500",
+        "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=500",
+        "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=500",
+        "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=500",
+        "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=500"
+    ]
+}

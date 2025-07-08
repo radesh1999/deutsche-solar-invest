@@ -1,0 +1,109 @@
+{
+    "projectName": "Weidhausen",
+    "projectAddress": "Waldstraße 17, 96279 Weidhausen",
+    "projectTag": "Mediplan Helm",
+    "subunits": [
+        {
+            "subunit": 1,
+            "kwp": 152.90,
+            "purchasePrice": 183258.40,
+            "status": "available",
+            "note": "© bis 24.12.2024",
+            "investor": ""
+        },
+        {
+            "subunit": 2,
+            "kwp": 152.90,
+            "purchasePrice": 183258.40,
+            "status": "reserved",
+            "note": "© bis 24.12.2024",
+            "investor": "Peter Meyer"
+        },
+        {
+            "subunit": 3,
+            "kwp": 152.90,
+            "purchasePrice": 183258.40,
+            "status": "sold",
+            "note": "sold",
+            "investor": "Meyer Solar GbR"
+        },
+        {
+            "subunit": 4,
+            "kwp": 152.90,
+            "purchasePrice": 183258.40,
+            "status": "available",
+            "note": "",
+            "investor": ""
+        },
+        {
+            "subunit": 5,
+            "kwp": 152.90,
+            "purchasePrice": 183258.40,
+            "status": "sold",
+            "note": "sold",
+            "investor": ""
+        },
+        {
+            "subunit": 6,
+            "kwp": 152.90,
+            "purchasePrice": 183258.40,
+            "status": "available",
+            "note": "",
+            "investor": ""
+        },
+        {
+            "subunit": 7,
+            "kwp": 152.90,
+            "purchasePrice": 183258.40,
+            "status": "available",
+            "note": "",
+            "investor": ""
+        },
+        {
+            "subunit": 8,
+            "kwp": 152.90,
+            "purchasePrice": 183258.40,
+            "status": "available",
+            "note": "",
+            "investor": ""
+        },
+        {
+            "subunit": 9,
+            "kwp": 152.90,
+            "purchasePrice": 183258.40,
+            "status": "available",
+            "note": "",
+            "investor": ""
+        },
+        {
+            "subunit": 10,
+            "kwp": 152.90,
+            "purchasePrice": 183258.40,
+            "status": "sold",
+            "note": "sold",
+            "investor": ""
+        },
+        {
+            "subunit": 11,
+            "kwp": 152.90,
+            "purchasePrice": 183258.40,
+            "status": "available",
+            "note": "",
+            "investor": ""
+        }
+    ],
+    "investors": [
+        {
+            "id": "1",
+            "name": "Peter Meyer"
+        },
+        {
+            "id": "2",
+            "name": "Meyer Solar GbR"
+        },
+        {
+            "id": "3",
+            "name": "Future Invest AG"
+        }
+    ]
+}

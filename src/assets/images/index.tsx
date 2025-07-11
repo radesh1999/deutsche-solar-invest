@@ -32,6 +32,8 @@ import CalculationsIcon from "../svg/CalculationsIcon.svg";
 import ConsultingIcon from "../svg/ConsultingIcon.svg";
 import UserMenuIcon from "../svg/UserMenuIcon.svg";
 import ProjectDevIcon from "../svg/ProjectDevIcon.svg";
+import InvesterMenuIcon from "../svg/InvesterMenuIcons.svg";
+import PdfIcon from "../svg/PdfIcon.svg";
 
 export {
     Wechselrichter,
@@ -67,5 +69,7 @@ export {
     CalculationsIcon,
     ConsultingIcon,
     UserMenuIcon,
-    ProjectDevIcon
+    ProjectDevIcon,
+    InvesterMenuIcon,
+    PdfIcon
 };

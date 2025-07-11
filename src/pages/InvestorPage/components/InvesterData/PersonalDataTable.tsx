@@ -1,8 +1,8 @@
 import React from 'react';
 import { Button, Table } from 'antd';
 import type { TableProps } from 'antd';
-import type { Persona } from './mockDataInvestors';
-import { UserIconWhite } from '../../../assets/images';
+import type { Persona } from '../mockDataInvestors';
+import { UserIconWhite } from '../../../../assets/images';
 import { RiDeleteBinLine } from "react-icons/ri";
 import { FiEdit2 } from "react-icons/fi";
 

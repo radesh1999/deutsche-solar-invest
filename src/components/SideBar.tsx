@@ -4,12 +4,12 @@ import {
 } from '@ant-design/icons';
 import Logo from '../assets/svg/logo.svg'; // Assuming you have this SVG
 import { Link, useLocation } from 'react-router-dom';
-import { CalculationsIcon, ConsultingIcon, Home, InvestersIcon, ProjectDevIcon, ProjectsIcon, UserMenuIcon } from '../assets/images';
+import { CalculationsIcon, ConsultingIcon, Home, InvesterMenuIcon, ProjectDevIcon, ProjectsIcon, UserMenuIcon } from '../assets/images';
 
 const navItems = [
   { path: '/home', icon: <img src={Home} />, label: 'Home' },
   { path: '/projects', icon: <img src={ProjectsIcon} />, label: 'Projects' },
-  { path: '/investors', icon: <img src={InvestersIcon} />, label: 'Investors' },
+  { path: '/investors', icon: <img src={InvesterMenuIcon} />, label: 'Investors' },
   { path: '/calculations', icon: <img src={CalculationsIcon} />, label: 'Calculations' },
   { path: '/consulting-documents', icon: <img src={ConsultingIcon} />, label: 'Consulting Documents' },
   { path: '/user', icon: <img src={UserMenuIcon} />, label: 'User' },

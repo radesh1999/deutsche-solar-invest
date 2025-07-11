@@ -3,27 +3,29 @@ import { Routes, Route, Navigate } from 'react-router-dom';
 
 import AppLayout from './appLayout/AppLayout';
 import HomePage from '../pages/Homepage/Homepage';
-import ProjektePage from '../pages/ProjektePage/ProjektePage';
-import ProjectDetailPage from '../pages/ProjektePage/overview/ProjectDetailsPage';
-import InvestorenPage from '../pages/InvestorenPage/InvestorenPage';
-import BerechnungenPage from '../pages/BerechnungenPage/BerechnungenPage';
-import BeratungsunterlagenPage from '../pages/BeratungsunterlagenPage/BeratungsunterlagenPage';
-import PresseberichtePage from '../pages/PresseberichtePage/PresseberichtePage';
-import InvestorDetailPage from '../pages/InvestorenPage/components/InvestersDetailsPage';
+import ProjectPage from '../pages/ProjectPage/ProjectPage';
+import ProjectDetailPage from '../pages/ProjectPage/overview/ProjectDetailsPage';
+import InvestorPage from '../pages/InvestorPage/InvestorPage';
+import InvestorDetailPage from '../pages/InvestorPage/components/InvestersDetailsPage';
+import UserPage from '../pages/User/UserPage';
+import Calculations from '../pages/Calculations/Calculations';
+import ConsultingDocuments from '../pages/ConsultingDocuments/Consulting-documents';
+import ProjectDeveloper from '../pages/ProjectDeveloper/ProjectDeveloper';
 
 const Router: React.FC = () => {
     return (
         <Routes>
             <Route element={<AppLayout />}>
-                <Route path="/" element={<Navigate to="/projekte" replace />} />
+                <Route path="/" element={<Navigate to="/projects" replace />} />
                 <Route path="/home" element={<HomePage />} />
-                <Route path="/projects" element={<ProjektePage />} />
+                <Route path="/projects" element={<ProjectPage />} />
                 <Route path="/projects/:id" element={<ProjectDetailPage />} />
-                <Route path="/investors" element={<InvestorenPage />} />
+                <Route path="/investors" element={<InvestorPage />} />
                 <Route path="/investors/:investorId" element={<InvestorDetailPage />} />
-                <Route path="/berechnungen" element={<BerechnungenPage />} />
-                <Route path="/beratungsunterlagen" element={<BeratungsunterlagenPage />} />
-                <Route path="/presseberichte" element={<PresseberichtePage />} />
+                <Route path="/calculations" element={<Calculations />} />
+                <Route path="/consulting-documents" element={<ConsultingDocuments/>} />
+                <Route path="/user" element={<UserPage />} />
+                <Route path="/project-developer" element={<ProjectDeveloper/>} />
             </Route>
         </Routes>
     );

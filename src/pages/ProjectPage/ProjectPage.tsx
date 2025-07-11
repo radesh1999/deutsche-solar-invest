@@ -9,7 +9,7 @@ const TABS = [
     'Secondary market projects',
 ];
 
-const ProjektePage: React.FC = () => {
+const ProjectPage: React.FC = () => {
     const [activeTab, setActiveTab] = useState<number>(0);
 
     // Renders content based on active tab
@@ -61,7 +61,7 @@ const ProjektePage: React.FC = () => {
     );
 };
 
-export default ProjektePage;
+export default ProjectPage;
 
 // Reusable placeholder component for empty tab content
 const Placeholder: React.FC<{ message: string }> = ({ message }) => (

@@ -1,17 +1,16 @@
-import React, { useMemo, useState } from 'react';
-import { useParams, Link } from 'react-router-dom';
-import { Button, message } from 'antd';
-import { SearchOutlined } from '@ant-design/icons';
-import { investorsData } from '../../../assets/json/mockInvesters.json';
-import PersonalDataForm from './PersonalDataForm';
-import FinancialDataForm from './FinancialDataForm';
-import PersonasTable from './PersonalDataTable';
-import SearchRequestModal from './SearchRequestModal';
-import CreatePersonaModal from './CreatePersonalModal';
+import { SearchOutlined } from "@ant-design/icons";
+import { Button, message } from "antd";
+import type React from "react";
+import PersonalDataForm from "./PersonalDataForm";
+import FinancialDataForm from "./FinancialDataForm";
+import { investorsData } from '../../../../assets/json/mockInvesters.json';
+import { useMemo, useState } from "react";
+import { Link, useParams } from "react-router-dom";
+import PersonalDataTable from "./PersonalDataTable";
+import SearchRequestModal from "./SearchRequestModal";
+import CreatePersonaModal from "./CreatePersonalModal";
 
-const tabs = ['Investor data', 'Contracts', 'Bank/Tax consultant'];
-
-const InvestorDetailPage: React.FC = () => {
+const InvesterData: React.FC = () => {
     const { investorId } = useParams<{ investorId: string }>();
     const [activeTab, setActiveTab] = useState('Investor data');
 
@@ -57,26 +56,9 @@ const InvestorDetailPage: React.FC = () => {
     }
 
     return (
-        <div className="p-8 bg-brand-light-gray h-full overflow-y-auto">
-            {/* Header Tabs */}
-            <nav className="flex space-x-8 border-b border-gray-200 mb-6">
-                {tabs.map((tab) => (
-                    <button
-                        key={tab}
-                        onClick={() => setActiveTab(tab)}
-                        className={`py-3 text-base font-medium transition-colors duration-200 focus:outline-none ${activeTab === tab
-                            ? 'text-brand-green border-b-2 border-brand-green'
-                            : 'text-brand-text-light hover:text-brand-text-dark'
-                            }`}
-                    >
-                        {tab}
-                    </button>
-                ))}
-            </nav>
-
-            {/* Page Title & Action */}
+        <>
             <div className="flex justify-between items-center mb-6">
-                <h1 className="text-2xl font-bold text-brand-text-dark">{investor.name}</h1>
+                <h1 className="text-lg font-bold text-brand-text-dark">{investor.name}</h1>
                 <Button
                     type="primary"
                     icon={<SearchOutlined />}
@@ -94,7 +76,7 @@ const InvestorDetailPage: React.FC = () => {
                 <FinancialDataForm data={investor.financialData} />
             </div>
 
-            <PersonasTable
+            <PersonalDataTable
                 personas={investor.personas}
                 onCreatePersonaClick={() => setIsPersonaModalOpen(true)} // <-- Open Persona Modal
             />
@@ -114,8 +96,8 @@ const InvestorDetailPage: React.FC = () => {
                 onCreate={handleCreatePersona}
                 isCreating={isCreating}
             />
-        </div>
-    );
-};
+        </>
+    )
+}
 
-export default InvestorDetailPage;
+export default InvesterData;

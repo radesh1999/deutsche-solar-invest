@@ -6,7 +6,10 @@ import {
   KWP,
   Power,
   Wechselrichterfrei,
-  KWPpower
+  KWPpower,
+  OpenField,
+  Tracker,
+  Battery
 } from '../../../assets/images/index';
 import CustomProgressBar from './ProgressBar';
 import TimelineProgressBar from './TimeLineProgressBar';
@@ -63,7 +66,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
           </div>
         </div>
 
-        <div className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div className="mt-4 grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-8">
           <div>
             <div className="grid grid-cols-2 gap-x-4 gap-y-4 text-brand-text-dark">
               <div className='flex flex-row gap-x-4'>
@@ -82,21 +85,14 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
             </div>
           </div>
 
-          <div className="relative rounded-lg overflow-hidden h-48">
-            <img src={image} alt={name} className="w-full h-full object-cover" />
-            <div className="absolute top-0 left-0 h-full w-2/5 bg-brand-dark-green/90 text-white flex flex-col justify-around items-center p-4">
-              <div className="text-center">
-                <FreilandanlageIcon />
-                <p className="text-sm mt-1">Freilandanlage</p>
-              </div>
-              <div className="text-center">
-                <TrackerIcon />
-                <p className="text-sm mt-1">Tracker</p>
-              </div>
-              <div className="text-center">
-                <SpeicherIcon />
-                <p className="text-sm mt-1">Speicher</p>
-              </div>
+          <div className="grid grid-cols-5 gap-x-1 gap-y-4 rounded-lg overflow-hidden h-55">
+            <div className="lg:col-span-1 w-full rounded-lg bg-[#077836] bg-brand-dark-green/90 text-white flex flex-col justify-around items-center p-4">
+              <div className="text-center flex flex-col justify-center items-center"> <img src={OpenField} className='w-6 h-6' /> <p className="text-sm mt-1">Open field</p> </div>
+              <div className="text-center flex flex-col justify-center items-center"> <img src={Tracker} className='w-6 h-6' /> <p className="text-sm mt-1">Tracker</p> </div>
+              <div className="text-center flex flex-col justify-center items-center"> <img src={Battery} className='w-6 h-6' /> <p className="text-sm mt-1">Storage</p> </div>
+            </div>
+            <div className='col-span-4 w-full rounded-lg overflow-hidden'>
+              <img src={image} alt={name} className="w-full h-full object-cover" />
             </div>
           </div>
         </div>

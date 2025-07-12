@@ -125,7 +125,7 @@ const Subsystems: React.FC = () => {
     };
 
     return (
-        <div className="p-8">
+        <div className="">
             <div className="flex justify-between items-center mb-6">
                 <div>
                     <h1 className="font-bold text-[17px] leading-[130%] tracking-[0]">{projectData.projectName}</h1>

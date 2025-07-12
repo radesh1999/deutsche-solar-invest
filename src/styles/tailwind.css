@@ -29,7 +29,7 @@
 }
 
 .custom-ant-table .ant-table-thead>tr>th {
-    background-color: #a3a587 !important;
+    background-color: #005738 !important;
     color: #ffffff !important;
 }
 
@@ -72,4 +72,19 @@
     /* thickness of the gradient border */
     width: 100%;
     background: linear-gradient(to right, #005738, #ffffff);
+}
+
+.center-gradient-border {
+    position: relative;
+}
+
+.center-gradient-border::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    /* thickness of the gradient border */
+    width: 100%;
+    background: linear-gradient(to right, #005738, #ffffff, #005738);
 }

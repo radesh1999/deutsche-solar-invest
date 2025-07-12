@@ -90,7 +90,7 @@ const InvestorsPage: React.FC = () => {
                 />
             </div>
 
-            {/* Table */}
+
             <div className="bg-white rounded-xl shadow-md overflow-auto">
                 <Table
                     dataSource={filteredData}

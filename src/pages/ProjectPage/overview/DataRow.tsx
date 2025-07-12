@@ -14,7 +14,7 @@ const DataRow: React.FC<DataRowProps> = ({ icon, label, value, secondaryValue })
                 <span className="text-1xl text-gray-400 w-6 text-center">{icon}</span>
                 <div className="text-black font-medium font-normal text-[13px] leading-[130%] tracking-[0]">{label}</div>
             </div>
-            <div className="text-right">
+            <div className="text-right space-y-1">
                 <p className="text-black font-medium text-[13px] leading-[130%] tracking-[0]">{value}</p>
                 {secondaryValue && <p className="text-black font-medium text-[13px] leading-[130%] tracking-[0]">{secondaryValue}</p>}
             </div>

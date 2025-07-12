@@ -4,6 +4,7 @@ import Sales from './Sales/Sales';
 import Recommendations from './Recommendations/Recommendations';
 import AccountData from './AccountData/AccountData';
 import EmployeesPage from './EmployeesPage/EmployeesPage';
+import RecommendationsPage from './Recommendations/Recommendations';
 
 const TABS = ['Dashboard', 'Sales', 'Employees', 'Recommendations', 'Account Data'];
 
@@ -20,7 +21,7 @@ const HomePage: React.FC = () => {
             case 'Employees':
                 return <EmployeesPage />;
             case 'Recommendations':
-                return <Recommendations />;
+                return <RecommendationsPage />;
             case 'Account Data':
                 return <AccountData />;
             default:

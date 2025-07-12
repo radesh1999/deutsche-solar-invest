@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
-import EmployeeTable from './EmployeeTable';
-import EmployeeRequests from './EmployeeRequest';
-import { mockEmployeeData } from './employeeData';
+import EmployeeTable from './components/EmployeeTable';
+import EmployeeRequests from './components/EmployeeRequest';
+import { mockEmployeeData } from './components/employeeData';
 import { RiUser6Line } from "react-icons/ri";
+import CommonModal from './components/Modal';
 import { message } from 'antd';
-import CommonModal from './Modal';
 
 interface FieldConfig {
     label: string;
@@ -13,7 +13,7 @@ interface FieldConfig {
     options?: { label: string; value: string | number }[];
 }
 
-const Employees: React.FC = () => {
+const EmployeesPage: React.FC = () => {
     const initialEmployees = mockEmployeeData.employees;
     const [employees, setEmployees] = useState(initialEmployees);
     const [requests] = useState(mockEmployeeData.requests);
@@ -111,4 +111,4 @@ const Employees: React.FC = () => {
     );
 };
 
-export default Employees;
+export default EmployeesPage;

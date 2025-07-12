@@ -4,10 +4,9 @@
     font-family: 'Inter', sans-serif;
 }
 
-/* Custom Checkbox when checked - dark green */
+
 .ant-checkbox-checked .ant-checkbox-inner {
     background-color: #065f46 !important;
-    /* your brand dark green */
     border-color: #065f46 !important;
 }
 
@@ -17,12 +16,21 @@
 
 :where(.css-dev-only-do-not-override-1rfzxih).ant-checkbox-indeterminate .ant-checkbox-inner:after {
     background-color: #064e3b !important;
-    /* gray-300 */
+}
+
+.custom-checkbox1 .ant-checkbox-checked .ant-checkbox-inner {
+    background-color: #FBBF24 !important;
+    border-color: #FBBF24 !important;
+}
+
+.custom-checkbox2 .ant-checkbox-checked .ant-checkbox-inner {
+    background-color: #065f46 !important;
+    border-color: #065f46 !important;
 }
 
 .custom-ant-table .ant-table-thead>tr>th {
-    background-color: #005738;
-    color: #ffffff;
+    background-color: #a3a587 !important;
+    color: #ffffff !important;
 }
 
 .ant-table-thead>tr>th:first-child {
@@ -49,4 +57,19 @@
 .custom-ant-table ::-webkit-scrollbar-thumb {
     background-color: #c0c0c0;
     border-radius: 4px;
+}
+
+.thead-gradient-border {
+    position: relative;
+}
+
+.thead-gradient-border::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    /* thickness of the gradient border */
+    width: 100%;
+    background: linear-gradient(to right, #005738, #ffffff);
 }

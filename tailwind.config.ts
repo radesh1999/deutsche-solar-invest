@@ -18,6 +18,10 @@ export default {
         'brand-gold': '#D9A42E',
         'brand-yellow-btn': '#FBBF24',
         'brand-yellow-btn-hover': '#F59E0B',
+        'status-reply-bg': '#E0E7FF',
+        'status-reply-text': '#4338CA',
+        'status-open-bg': '#D1FAE5',
+        'status-open-text': '#065F46'
       },
     },
   },
